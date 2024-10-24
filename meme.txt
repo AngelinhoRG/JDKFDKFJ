@@ -1,0 +1,3 @@
+hello from vs code
+
+This is the second commit attempt
